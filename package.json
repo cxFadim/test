@@ -1,0 +1,19 @@
+{
+  "name": "sca-web-client-spa",
+  "version": "0.0.0",
+  "description": "cxWebClientSpa",
+  "main": "app.js",
+  "repository": "",
+  "license": "",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "author": "Lumo",
+  "dependencies": {
+    "react": "^16.8.4"
+  },
+  "devDependencies": {
+    "expect": "^24.5.0",
+	"webpack-dev-server": "^3.2.1"
+  }
+}
